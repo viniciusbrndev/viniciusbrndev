@@ -1,4 +1,4 @@
-<h2 align="left">Hey there!!, I'm Vinícius Brandão 👋<br><br>I'm a Computer Science student passionate about learning, coding, and building useful projects.<br>Here you’ll find my studies, experiments, and the projects I create as I grow in the world of software development.</h2>
+<h2 align="left">Hey there!!, I'm Vinícius Brandão 👋<br><br>I'm a Computer Science student passionate about learning, coding, and building useful projects.</h2>
 
 ###
 
