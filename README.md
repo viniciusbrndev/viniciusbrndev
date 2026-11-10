@@ -33,7 +33,8 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🧩 **[Sumplete](./)** | Terminal-based numerical logic game in C with saves, ranking, and ANSI interface. | `C` `Data Structures` |
+| 🧩 **[Battle Simulator](./)** | Strategic Battle Simulation System in C++ (OOP) | `C++` `OOP` |
+| 🧩 **[External Search](./)** | Performance instrumentation and comparative analysis of four data structures for searching in secondary storage | `C++` `OOP - Data Structures` |
 | 🧠 **[First Fit Allocator](./)** | Memory allocation simulator based on First-Fit algorithm with temporal event handling. | `C` `Algorithms` `OS` |
 | 🌲 **[Expression Tree Evaluator](./)** | Mathematical expression evaluator using binary expression trees and recursion. | `C` `Trees` `Parsing` |
 
